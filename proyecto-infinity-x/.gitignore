@@ -1,0 +1,22 @@
+# Binarios compilados
+*.exe
+*.out
+*.o
+*.obj
+infinity_x
+
+# Archivos de datos que el programa genera al ejecutarse
+*.dat
+
+# Archivos de IDE
+.vscode/
+.vs/
+*.suo
+*.user
+*.dev
+*.layout
+*.depend
+
+# Sistema
+.DS_Store
+Thumbs.db
